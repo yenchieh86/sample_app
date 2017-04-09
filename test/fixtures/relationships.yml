@@ -1,0 +1,12 @@
+one: 
+  follower: yen
+  followed: kim
+two:
+  follower: yen
+  followed: chen
+three:
+  follower: kim
+  followed: yen
+four:
+  follower: malory
+  followed: yen

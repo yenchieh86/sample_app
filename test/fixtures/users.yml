@@ -32,6 +32,21 @@ chen:
   password_digest: <%= User.digest('111111') %>
   activated: true
   activated_at: <%= Time.zone.now %>
+  
+kim:
+  name: kim Chen
+  email: kim@hotmail.com
+  password_digest: <%= User.digest('111111') %>
+  activated: true
+  activated_at: <%= Time.zone.now %>
+  
+kimi:
+  name: kimi Chen
+  email: kimi@hotmail.com
+  password_digest: <%= User.digest('111111') %>
+  activated: true
+  activated_at: <%= Time.zone.now %>
+
 
 <% 30.times do |n| %>
 user_<%= n %>:
