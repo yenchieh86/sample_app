@@ -5,7 +5,7 @@ This is the sample application for
 Learn Web Development with Rails*](http://www.railstutorial.org/)
 by [Michael Hartl](http://www.michaelhartl.com/).
 
-[My Heroku Link](https://yen-sample-app.herokuapp.com/)
+[My Heroku Application Link](https://yen-sample-app.herokuapp.com/)
 
 ## License
 
